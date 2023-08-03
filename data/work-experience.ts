@@ -4,7 +4,7 @@ export const workExperience: IWorkExperience[] = [
   {
     id: 1,
     company: 'Accenture',
-    jobTitle: 'Application Development Analyst',
+    jobTitle: 'Software Developer',
     date: 'Apr 2020 - Apr 2021',
     achievements: [
       'Led the end-to-end development of a cross-platform mobile application using React Native',
