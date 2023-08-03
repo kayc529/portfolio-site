@@ -45,7 +45,7 @@ const SideBar = () => {
           <li className='nav_item flex gap-4 items-center'>
             <PiProjectorScreenBold className='w-8 h-8' />
             <a
-              href='#profile'
+              href='#projects'
               className='font-libre text-h5'
               onClick={toggleSideBar}
             >
